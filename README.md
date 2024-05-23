@@ -14,6 +14,9 @@
     <a href="https://t.me/nikmeledin" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
+  <a href="nik2000meledin@mail.ru" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
 
