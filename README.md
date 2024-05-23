@@ -23,10 +23,10 @@
 ### Портфолио
 
 * Тестовая документация
-    * [Чек-листы]()
-    * [Тест-кейсы]()
-    * [Баг-репорты]()
-    * [Тест-план]()
+    * [Чек-лист](https://docs.google.com/spreadsheets/d/1kJC_cmMe6KME2l9Tnrb_FnFh2SegN358/edit?usp=sharing&ouid=107303527491289250885&rtpof=true&sd=true)
+    * [Тест-кейс](https://docs.google.com/spreadsheets/d/1aFfWNnsYeOBGP2EZmRgQ7brsH0w_45JI/edit?usp=sharing&ouid=107303527491289250885&rtpof=true&sd=true)
+    * [Баг-репорт](https://docs.google.com/spreadsheets/d/1Ghykw6uvPb-mQ9HBtoeK4g7uFg0E5POt/edit?usp=sharing&ouid=107303527491289250885&rtpof=true&sd=true)
+    * [Тест-план](https://docs.google.com/document/d/160FC8QMSyPH5IV5gOjIKZadcjT8vN_NAtwtO7PNXf94/edit?usp=sharing)
 * Коллекции в postman
     * [Название проекта]()
 * SQL запросы
