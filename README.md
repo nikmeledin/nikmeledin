@@ -1,21 +1,10 @@
-<br clear="both">
+###
 
-<div align="center">
-  <img height="300" width="600" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xrMjB5aHlraW14cTh6N2V5NnZ5NWdiMzN4bG1xdHBkZHByd2FhcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2SYqgPxMm2kbVe3y02/giphy.gif"  />
+ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Никита!
+===============================================================================================================================
+<div align="сутеук">
+  <img height="300" width="1000" src="https://64.media.tumblr.com/fd2098fce5a420a387c71412b9ca8b7d/tumblr_mo8k3nMNjB1r4zr2vo2_r1_500.gifv"  />
 </div>
-
-###
-
-  Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Никита!
-
-###
-
-<div align="center">
-    <a href="https://t.me/nikmeledin" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
- </div>
-
 
 ###
 
@@ -100,5 +89,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
   
 </div>
+
+### Мои контакты
+<div align="left">
+    <a href="https://t.me/nikmeledin" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+ </div>
+
 
 ---
