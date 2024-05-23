@@ -28,9 +28,11 @@
     * [Баг-репорт](https://docs.google.com/spreadsheets/d/1Ghykw6uvPb-mQ9HBtoeK4g7uFg0E5POt/edit?usp=sharing&ouid=107303527491289250885&rtpof=true&sd=true)
     * [Тест-план](https://docs.google.com/document/d/160FC8QMSyPH5IV5gOjIKZadcjT8vN_NAtwtO7PNXf94/edit?usp=sharing)
 * Коллекции в postman
-    * [Название проекта]()
+    * [Collection_1](https://drive.google.com/file/d/10Y9WLVO-61YTYBNLNyqMpeWmDNU0SCwA/view?usp=sharing)
+    * [Collection_2](https://drive.google.com/file/d/1AHoCya41si5oh46UeX4xrDH7jL_ypAqy/view?usp=sharing)
+    * [Collection_3](https://drive.google.com/file/d/1mrzFrdMdRFDSBnAhFavV9mdpvqEIBLeG/view?usp=sharing)
 * SQL запросы
-    * [Название проекта]()
+    * [Введение в SQL](https://drive.google.com/file/d/140v9nWRdcSy3XSBkGGPsiECG3T62gPz8/view?usp=sharing)
 
     ---
 
